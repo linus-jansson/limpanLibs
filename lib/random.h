@@ -1,3 +1,6 @@
+#ifndef RANDOM_LIMPAN_LIBS_H
+#define RANDOM_LIMPAN_LIBS_H
+
 #include <cmath>
 #include <iterator> // advance, distance
 #include <numeric> // inner_product
@@ -20,3 +23,5 @@ namespace limpan
         }  
     };
 }
+
+#endif
